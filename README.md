@@ -3,6 +3,7 @@
 How many humans are in space right now?
 
 [Click Here!](https://orbital.danielmattox.com) to find out!
+This project is hosted/deployed on my private server.
 
 This is a simple React project that really could have been vanilla JS, but I love React!
 
